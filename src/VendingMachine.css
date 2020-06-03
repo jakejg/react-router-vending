@@ -1,0 +1,22 @@
+.SnackList {
+    list-style: none;
+    border: black 2px solid;
+    padding: 0px;
+    width:200px;
+    margin: auto;
+}
+
+.SnackList a {
+    text-decoration: none;
+    color: green;
+}
+
+.VendingMachine nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+.active {
+    font-weight: bold;
+}
+

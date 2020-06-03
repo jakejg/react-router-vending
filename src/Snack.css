@@ -1,0 +1,9 @@
+.Snack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Snack img {
+    width: 300px;
+}
